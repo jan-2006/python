@@ -1,5 +1,5 @@
-primer = (input("Introdueix el primer nombre: ") )
-segon = (input("Introdueix el segon nombre: ") )
+n1 = (input("Introdueix el primer nombre: ") )
+n2 = (input("Introdueix el segon nombre: ") )
 
 opcion = 0
 while True:
